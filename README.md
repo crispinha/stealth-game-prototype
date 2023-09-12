@@ -5,7 +5,7 @@ Gameplay demonstration
 Gameplay and code walkthrough
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tmKM7y7t-L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Gameplay and code walkthrough](https://www.youtube.com/watch?v=tmKM7y7t-L0)
+This repo does not store IDE project files, use the `.uproject` to generate them. Maps located in `Content/TopDown/Maps`
 
 ## Description/Reflection
 

@@ -8,7 +8,6 @@
 #include "PropertyAccess.h"
 #include "test2Character.h"
 #include "Engine/World.h"
-#include "Mac/CocoaMenu.h"
 
 Atest2PlayerController::Atest2PlayerController()
 {
